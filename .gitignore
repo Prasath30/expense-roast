@@ -1,0 +1,14 @@
+.build/
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+Local.xcconfig
+.env
+.env.*
+*.p12
+*.mobileprovision
+**/ledger.json
+**/demo.json
+*-backup*.json

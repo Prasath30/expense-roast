@@ -1,0 +1,4 @@
+// Copy Local.xcconfig.example to Local.xcconfig for private device settings.
+HDFC_ACCOUNT_SUFFIX = 0000
+DEVELOPMENT_TEAM =
+#include? "Local.xcconfig"
